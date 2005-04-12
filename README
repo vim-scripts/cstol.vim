@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1261
+
+Colorizes OASIS CSTOL ( http://lasp.colorado.edu/oasis/#User%20Interface ) files.  There are some small regular expression bugs, but overall CSTOL scripts are much more readable with this syntax coloration than without it.  I welcome bug reports.
